@@ -6,19 +6,19 @@
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23F37626.svg?style=flat&logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 *A comprehensive machine learning project that predicts house prices using linear regression .*
 
 </div>
 
-## Screenshot
+## 📸 Screenshot
 
 Here is a preview of the application's user interface:
 
 ![Bengaluru House Price Predictor](assets/app_screenshot.png)
 
-*(To add your own image: Create an `assets` folder in your project, save your screenshot as `app_screenshot.png` inside it, and this image will display automatically.)*
 
 
 ## 📋 Table of Contents
@@ -27,11 +27,10 @@ Here is a preview of the application's user interface:
 - [✨ Features](#-features)
 - [🛠️ Technologies Used](#️-technologies-used)
 - [📊 Dataset](#-dataset)
+- [🤖 Model ](#-model)
 - [🚀 Quick Start](#-quick-start)
+- [🔄 Usage](#-usage)
 - [📈 Project Structure](#-project-structure)
-- [🔍 Analysis & Methodology](#-analysis--methodology)
-- [📊 Model Performance](#-model-performance)
-- [📸 Visualizations](#-visualizations)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -172,6 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 ---
+
 
 
 
