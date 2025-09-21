@@ -8,9 +8,18 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-*A comprehensive machine learning project that predicts house prices using linear regression with extensive data analysis and visualization.*
+*A comprehensive machine learning project that predicts house prices using linear regression .*
 
 </div>
+
+## Screenshot
+
+Here is a preview of the application's user interface:
+
+![Bengaluru House Price Predictor](assets/app_screenshot.png)
+
+*(To add your own image: Create an `assets` folder in your project, save your screenshot as `app_screenshot.png` inside it, and this image will display automatically.)*
+
 
 ## 📋 Table of Contents
 
@@ -31,13 +40,6 @@
 This project is a machine learning application designed to predict house prices in Bengaluru, India. It utilizes a Linear Regression model trained on a comprehensive dataset of real estate properties. The primary goal is to provide a reliable and data-driven estimate of property values based on key features like location, size (in square feet), and the number of bedrooms and bathrooms.
 
 To make the model accessible to a non-technical audience, it is deployed as an interactive web application using Streamlit. Users can input the property's specifications and receive an instant price prediction.
-
-### Key Objectives:
-- 🏡 Predict house prices accurately using property features
-- 📊 Perform extensive exploratory data analysis (EDA)
-- 🎨 Create insightful visualizations
-- 📈 Evaluate model performance using multiple metrics
-- 🔬 Understand feature importance and correlations
 
 ## ✨ Features
 
@@ -87,7 +89,7 @@ The predictive model is based on **Linear Regression**, a fundamental supervised
 1. **Clone the repository**
    ```bash
    git clone <your-repository-url>
-   cd House_Price_Prediction_Using_Linear_Regression
+   cd Bengaluru House Price Prediction
    ```
 
 2. **Install dependencies**
@@ -97,14 +99,13 @@ The predictive model is based on **Linear Regression**, a fundamental supervised
 
 3. **Launch Jupyter Notebook**
    ```bash
-   jupyter notebook HPPULR.ipynb
+   jupyter notebook Bengaluru_House_price_Prediction.ipynb
    ```
 
 4. **Run the analysis**
    - Execute cells sequentially from top to bottom
-   - Enjoy the visualizations and analysis! 📊
   
-## Usage
+## 🔄 Usage
 
 Once the setup is complete, you can run the Streamlit application.
 
@@ -171,6 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 ---
+
 
 
 
