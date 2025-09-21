@@ -55,8 +55,8 @@ To make the model accessible to a non-technical audience, it is deployed as an i
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | Numerical computing |
 | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | Machine learning library |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | Interactive development environment |
-| ![Streanlit](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=streamlit&logoColor=white) | For creating and deploying the interactive web application |
-| ![Pickle](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=pickle&logoColor=white) | For saving and loading the trained model |
+| ![Streanlit](https://img.shields.io/badge/Streamlit-F37626?style=flat&logo=streamlit&logoColor=white) | For creating and deploying the interactive web application |
+| ![Pickle](https://img.shields.io/badge/Pickle-F37626?style=flat&logo=pickle&logoColor=white) | For saving and loading the trained model |
 
 ## 📊 Dataset
 
@@ -171,6 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 ---
+
 
 
 
