@@ -102,20 +102,17 @@ Your default web browser will open a new tab with the application running.
 
 ```Bengaluru-House-Price-Prediction/
 │
-├── .streamlit/                 # Optional: Streamlit configuration
-│   └── config.toml
-│
 ├── data/
-│   ├── Cleaned.csv             # Cleaned data used for training
-│   └── Bengaluru_House_Data.csv # Raw dataset
+│   ├── Cleaned_data.csv        # Cleaned data used for training
+│   └── Raw_Data.csv            # Raw dataset
 │
 ├── model/
 │   └── Bengaluru_House_Price_model.pkl # The trained model file
 │
 ├── app.py                      # Main Streamlit application script
-├── model_training.ipynb        # Jupyter Notebook for model development and analysis
+├── background_image.png        # Background image
+├── Bengaluru_House_price_Prediction.ipynb        # Jupyter Notebook for model development and analysis
 ├── requirements.txt            # List of Python dependencies for pip
-├── style.css                   # Custom CSS for styling the app
 └── README.md                   # Project documentation (this file)
 ```
 
@@ -134,4 +131,3 @@ Contributions are welcome! If you have suggestions for improving this project, p
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 
-```
