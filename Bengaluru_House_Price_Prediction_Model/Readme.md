@@ -1,6 +1,4 @@
-Of course. Here is the complete README file in a single code block. You can copy this directly into a `README.md` file.
 
-```markdown
 # Bengaluru House Price Prediction
 
 ## Table of Contents
@@ -134,5 +132,6 @@ Contributions are welcome! If you have suggestions for improving this project, p
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
 
 ```
